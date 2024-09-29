@@ -1,4 +1,3 @@
 <p>
-CHECK OUT MY STRAWPAGE!
-  https://github.com/anorangekity
+CHECK OUT MY STRAWPAGE! https://anorangecat.straw.page/
 </p>
